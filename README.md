@@ -1,5 +1,5 @@
 # Scientific_Calculator
-•	This Calculator performs basic addition ,subtraction ,multiplication and division operations.
+•	This calculator performs basic addition ,subtraction ,multiplication and division operations.
 •	Additional functions include log, square root, cube root, exponent, power, sine, cosine, tangent, sinh, cosh, tanh, sine inverse, cos inverse and tan inverse.
 
 
